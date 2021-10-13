@@ -7,3 +7,15 @@ Arrays
 '''
 
 #list - mutable, dynamic array
+arr = ["one", "two", "three"]
+print(arr[0])
+
+print(arr)
+
+#lists are mutable
+arr[1] = "hello"
+print(arr)
+
+#lists can hold arbitrary data types
+arr.append(23)
+print(arr)
