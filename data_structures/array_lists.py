@@ -6,6 +6,7 @@ Arrays
 - O(1) time complexity
 '''
 
+#list - datatype, can be declared w []
 #list - mutable, dynamic array
 arr = ["one", "two", "three"]
 print(arr[0])

@@ -8,7 +8,7 @@ Dictionaries
 - O(1) time complexity (for lookup, insert, update and delete)
 '''
 
-#dict - datatype, can be declared w {}
+#dict - datatype, can be declared with {}
 
 phonebook = {
     "tom": 6300,
